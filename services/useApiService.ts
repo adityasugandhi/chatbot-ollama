@@ -6,7 +6,7 @@ import {OllamaModel, OllamaModelDetail} from '@/types/ollama'
 
 
 const useApiService = () => {
-  const fetchService = useFetch();
+  const fetchService = useFetch("http://egret-perfect-dane.ngrok-free.app");
 
   const getModels = useCallback(
     (): Promise<OllamaModel[]>  => {
