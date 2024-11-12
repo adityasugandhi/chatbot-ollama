@@ -73,6 +73,16 @@ npm run dev
 
 You should be able to start chatting.
 
+
+### 7 . Live
+
+
+
+
+Its live on 
+
+[chatbot](https://discrete-dory-unduly.ngrok-free.app/)
+
 ## Configuration
 
 When deploying the application, the following environment variables can be set:
@@ -85,4 +95,4 @@ When deploying the application, the following environment variables can be set:
 
 ## Contact
 
-If you have any questions, feel free to reach out to me on [X](https://x.com/ivanfioravanti).
+If you have any questions, feel free to reach out to me on (https://adityasugandhi.com).
